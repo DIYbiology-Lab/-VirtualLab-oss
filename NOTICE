@@ -1,0 +1,11 @@
+VirtualLab-oss
+Copyright (c) 2025 Takuto HAYASHI
+
+This project includes components from:
+- Virtual Lab (MIT License) — Copyright (c) Stanford/CZ Biohub.
+  See: https://github.com/zou-group/virtual-lab (include MIT LICENSE).
+- OpenAI GPT-OSS models (Apache License 2.0) — Copyright (c) OpenAI.
+  See: https://huggingface.co/openai/gpt-oss-20b (include Apache-2.0 license).
+
+Additional attributions and license texts are included in the LICENSE file and
+in upstream repositories. Modifications in this repository are by Takuto HAYASHI.
